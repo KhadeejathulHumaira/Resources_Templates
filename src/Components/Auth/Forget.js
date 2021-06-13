@@ -41,6 +41,7 @@ function Forget() {
    }
     return (
         <div className={style.body}>
+            <h1>Forget Template</h1>
             <h3 className={style.h3}>Forget Password</h3>
             <div>
                 <h4 className={style.h4}>Enter Password</h4>
